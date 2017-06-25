@@ -47,6 +47,7 @@
 - [Asian Grilled Keto Short Ribs](https://www.ruled.me/asian-grilled-keto-short-ribs/)
 - [Keto BBQ Chicken Pizza (Dairy-Free Crust)](https://www.ruled.me/keto-bbq-chicken-pizza-dairy-free-crust/)
 - [Cheese Stuffed Bacon Cheeseburger](https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/)
+- [Totchos](https://www.ruled.me/keto-tater-tot-nachos-aka-totchos/)
 
 *[Back to top](#keto-dishes)*
 
