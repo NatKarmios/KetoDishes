@@ -11,7 +11,6 @@
 5. [Sweet](#sweet)
 
 ## Breakfasts
-*[Back to top](#keto-dishes)*
 - [Bacon Breakfast Bagels](https://www.ruled.me/bacon-breakfast-bagels/)
 - [Spinach, Herb and Feta Wrap](https://www.ruled.me/spinach-herb-feta-wrap/)
 - [Salmon Benny Breakfast Bombs](https://www.ruled.me/salmon-benny-breakfast-bombs/)
@@ -22,8 +21,9 @@
 - [Jalapeno Popper Egg Cups](https://www.ruled.me/jalapeno-popper-egg-cups/)
 - [Low Carb Pancake Sandwich](https://www.ruled.me/low-carb-pancake-sandwich/)
 
-## Lunches
 *[Back to top](#keto-dishes)*
+
+## Lunches
 - [Cheesy Italian Break Bake](https://www.ruled.me/italian-cheesy-bread-bake/)
 - [Chicken Crust Pizza](https://www.ruled.me/buffalo-chicken-crust-pizza/)
 - [Ultimate Cheeseburger Loaf](https://www.ruled.me/ultimate-cheeseburger-loaf/)
@@ -35,8 +35,9 @@
 - [BBQ Bacon Wrapped Smokies](https://www.ruled.me/bbq-bacon-wrapped-smokies/)
 - [BBQ Chicken Soup](https://www.ruled.me/bbq-chicken-soup/)
 
-## Dinners
 *[Back to top](#keto-dishes)*
+
+## Dinners
 - [Fat Head Pizza](http://www.ditchthecarbs.com/2015/04/23/fat-head-pizza/)
 - [Nacho Steak Skillet](https://www.ruled.me/nacho-steak-skillet/)
 - [Low Carb Sweet and Sour Meatballs](https://www.ruled.me/low-carb-sweet-and-sour-meatballs/)
@@ -47,8 +48,9 @@
 - [Keto BBQ Chicken Pizza (Dairy-Free Crust)](https://www.ruled.me/keto-bbq-chicken-pizza-dairy-free-crust/)
 - [Cheese Stuffed Bacon Cheeseburger](https://www.ruled.me/cheese-stuffed-bacon-cheeseburger/)
 
-## Snacks
 *[Back to top](#keto-dishes)*
+
+## Snacks
 - [Cheese Meatballs](https://www.fatforweightloss.com.au/recipe/keto-cheese-meatballs/)
 - [Samosas](http://simplysohealthy.com/low-carb-indian-vegetable-samosas/)
 - [Baked Keto Chicken Tenders](https://www.ketoconnect.net/recipe/keto-chicken-tenders/)
@@ -58,8 +60,9 @@
 - [Pizza Balls](https://www.ruled.me/savory-pizza-fat-bombs/)
 - [5-Minute Keto Pizza](https://www.ruled.me/5-minute-keto-pizza/)
 
-## Sweet
 *[Back to top](#keto-dishes)*
+
+## Sweet
 - [Paleo Brownies](https://draxe.com/recipe/paleo-brownies-recipe/) *(Substitute maple sugar out for Stevia)*
 - [Blackberry Nut Fat Bombs](http://lowcarbediem.com/blackberry-nut-fat-bomb-recipe/)
 - [Bulletproof Hot Cocoa](https://makan.ch/recipe/bulletproof-hot-cocoa/)
@@ -68,3 +71,5 @@
 - [Keto Lava Cake](https://www.tasteaholics.com/recipes/low-carb-keto/keto-lava-cake/)
 - [Keto Gelatin Rum Shots](https://www.ruled.me/keto-gelatin-rum-shots/)
 - [Keto Mocha Mousse](https://www.ruled.me/keto-mocha-mousse/)
+
+*[Back to top](#keto-dishes)*
