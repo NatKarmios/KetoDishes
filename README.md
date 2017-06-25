@@ -1,7 +1,7 @@
 # Keto Dishes
 #### Because if I'm going to do keto, then I'm going to bloody well do it organised.
 
-*The majority of these dishes were from [Ruled.me](https://www.ruled.me/keto-recipes/). Kudos to them.
+*The majority of these dishes were from* ***[Ruled.me](https://www.ruled.me/keto-recipes/).*** *Kudos to them.*
 
 ## Breakfasts
 - [Bacon Breakfast Bagels](https://www.ruled.me/bacon-breakfast-bagels/)
