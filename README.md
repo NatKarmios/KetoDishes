@@ -55,7 +55,7 @@
 - [5-Minute Keto Pizza](https://www.ruled.me/5-minute-keto-pizza/)
 
 ## Sweet
-- [Paleo Brownies](https://draxe.com/recipe/paleo-brownies-recipe/) *(Substitute mape sugar out for Stevia)*
+- [Paleo Brownies](https://draxe.com/recipe/paleo-brownies-recipe/) *(Substitute maple sugar out for Stevia)*
 - [Blackberry Nut Fat Bombs](http://lowcarbediem.com/blackberry-nut-fat-bomb-recipe/)
 - [Bulletproof Hot Cocoa](https://makan.ch/recipe/bulletproof-hot-cocoa/)
 - [Raspberry Lemon Ice Lollies](https://www.ruled.me/raspberry-lemon-popsicles/)
